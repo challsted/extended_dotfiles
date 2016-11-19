@@ -42,7 +42,6 @@ If you created the folder make sure you cd into it, then run the next command
 ## Contact the author
 
 Professional  Twitter [@hackinginfo][tweet]  
-My Blog    [masammich's][blog]  
 
 [MUTT_WIKI]:       ../../wiki/Mutt
 [i3_WIKI]:         ../../wiki/i3 
